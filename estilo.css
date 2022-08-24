@@ -78,15 +78,7 @@ li a:hover {
     display: flex;
     justify-content: left;
 }
-.caixaBacate2 {
-  position: absolute;
-  top: 100px;
-  right: 0;
-  width: 100px;
-  height: 180px;
-  display: flex;
-  justify-content: right;
-}
+
 .rodape {
 position: absolute;
 bottom: 0;
