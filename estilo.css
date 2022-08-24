@@ -7,6 +7,10 @@ body {
 h1 {
   text-align: center;
 }
+p{
+  font-size: 20px;
+  
+}
 .caixa1 {
   position: absolute;
   background: #57370d;
@@ -66,15 +70,15 @@ li a:hover {
 }
 .caixaDeCafe {
     position: absolute;
-    top: 45px;
+    top: 60px;
     background: #b3aa62;
     width: 90%;
-    height: 180px;
+    height: 300px;
     margin: 20px;
     border-color: #b9a963;
     border-width: 20px;
     border-style: dashed;
-    padding: 20px;
+    padding: 30px;
     display: flex;
     justify-content: left;
 }
